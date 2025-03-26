@@ -164,8 +164,7 @@ Radare2 Ouija	Communicating with dead code	☠️☠️☠️☠️
     btrfs-progs
     Snapshots trapped between COW realities
 
-https://img.shields.io/badge/-%F0%9D%95%B1%F0%9D%96%8E%F0%9D%96%91%F0%9D%96%8A%F0%9D%96%98%F0%9D%96%9E%F0%9D%96%98%F0%9D%96%99%F0%9D%96%8A%F0%9D%96%92_%F0%9D%95%B3%F0%9D%96%8A%F0%9D%96%91%F0%9D%96%91-000000?style=flat&logo=files
-
+Filesystem Shell 
 Want me to conjure more dark tech elements? I can add:  
 - 🧟 CI/CD Necromancy pipelines  
 - 🔥 Database infernos  
