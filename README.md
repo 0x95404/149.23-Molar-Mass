@@ -13,8 +13,6 @@
 
 📈 Kernel Panic Stats
 
-GitHub Streak
-https://git.io/streak-statshttps://github.com/0x95404
 
 🛠️ Tech Grimoire
 
@@ -39,4 +37,56 @@ https://git.io/streak-statshttps://github.com/0x95404
 - **LLDB Ouija Board** - Communicating with dead processes  
 - **Stack Smashing for Dummies** - Buffer overflow coloring book  
 
+## 🔮 Dark Contributions
 
+<details>
+<summary><b>🕳️ Void Whisperer Projects</b></summary>
+
+- **Phantom Kernel**  
+  `C++` `LLVM` `QEMU`  
+  _Bare-metal hypervisor that leaves no trace in memory_
+  
+- **0xDEADCODE Compiler**  
+  `Rust` `WASM` `Lua`  
+  _Transpiles code into "vanishing bytecode" that self-destructs after execution_
+
+- **Cryptic.Torrent**  
+  `Python` `libp2p` `AES-NI`  
+  _Distributed knowledge repository that evaporates after 404 seconds_
+
+👻 Memory Phantoms
+
+- **GDB Necromancer**  
+  `GDB Python API` `ptrace` `DWARF`  
+  _Revives core dumps into zombie processes_
+
+- **Radare2 Sigils**  
+  `Radare2` `Capstone` `Unicorn`  
+  _Reverse engineers binaries into occult assembly patterns_
+
+- **Stack Ouija**  
+  `C` `ASAN` `KASAN`  
+  _Communicates with dead stack frames through buffer overflows_
+
+🌀 Hypervisor Hexes
+![KVM](https://img.shields.io/badge/-𝕶𝖁𝕸-000000?style=flat&logo=virtualbox)
+![Xen](https://img.shields.io/badge/-𝕏𝕰𝕹-000000?style=flat&logo=xen)
+![QEMU](https://img.shields.io/badge/-𝕼𝕰𝕸𝖀-000000?style=flat&logo=qemu)
+
+- **KVM Curse** - _Inject blue screens into guest VMs_  
+- **Xen Shadow** - _Hide processes in negative dimension_  
+- **QEMU Soulbind** - _Tether VMs to dying host processes_
+
+🧪 Cryptic Languages
+
+```hex
+Offset     0 1 2 3  4 5 6 7  8 9 A B  C D E F
+00000000  7f 45 4c 46 02 01 01 00 00 00 00 00  00 00 00 00
+00000010  02 00 3e 00 01 00 00 00 78 00 40 00  00 00 00 00
+
+
+ELF header incantation written in raw hex
+Language	Purpose	Danger Level
+BaneC	Memory corruption liturgy	☠️☠️☠️☠️
+Rustigo	Unsafe possession rituals	☠️☠️☠️
+Pythonomicon	Scripted reality bending	☠️☠️
