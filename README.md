@@ -14,7 +14,7 @@
 📈 Kernel Panic Stats
 
 GitHub Streak
-https://git.io/streak-stats
+https://git.io/streak-statshttps://github.com/0x95404
 
 🛠️ Tech Grimoire
 
