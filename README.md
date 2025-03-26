@@ -10,3 +10,40 @@
 ! 𝕭𝖆𝖗𝖊-𝖒𝖊𝖙𝖆𝖑 𝖘𝖊𝖌𝖋𝖆𝖚𝖑𝖙𝖘 𝖔𝖓𝖑𝖞 ⚡🖲️  
 # 𝕭𝖗𝖊𝖜𝖎𝖓𝖌 𝖍𝖊𝖎𝖘𝖊𝖍_𝕺𝕾 🌀 @0x95 (149.23 𝕸𝖔𝖑𝖆𝖗 𝕸𝖆𝖘𝖘)  
 - 𝕰𝖗𝖗𝖔𝖗 404: 𝖁𝖆𝖓𝖎𝖘𝖍𝖎𝖓𝖌 𝖆𝖈𝖙𝖘 𝖎𝖓 𝖐𝖊𝖗𝖓𝖊𝖑 𝖘𝖕𝖆𝖈𝖊  
+
+📈 Kernel Panic Stats
+
+GitHub Streak
+https://git.io/streak-stats
+
+🛠️ Tech Grimoire
+
+<details>
+<summary><b>⚙️ Core Alchemy</b></summary>
+
+- **0xDEADCODE** - Rewriting `/dev/null` in hex  
+- **Kernel Panic Fuel** - C++ template metaprogramming that segfaults on sight  
+- **Syscall Roulette** - Russian轮盘赌 with `fork()`  
+- **Void Pointers Anonymous** - Support group for dereferencing addicts  
+
+</details>
+
+<details>
+<summary><b>☢️ Virtualization Arsenal</b></summary>
+
+- **Hypervisor of Chaos** - QEMU patch that randomizes CPUID  
+- **KVM Blue Sky** - Injecting meth formulas into VM entropy pools  
+- **Docker of Despair** - Images that `rm -rf /*` on `docker stop`  
+- **K8s Reaper** - CronJob that deletes namespaces at midnight  
+
+</details>
+
+<details>
+<summary><b>💀 Memory Corruption Kit</b></summary>
+
+- **GDB Black Magic** - Breakpoints that trigger triple faults  
+- **Radare2 Hexorcist** - Disassembling binaries into I Ching hexagrams  
+- **LLDB Ouija Board** - Communicating with dead processes  
+- **Stack Smashing for Dummies** - Buffer overflow coloring book  
+
+</details>
