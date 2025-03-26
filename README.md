@@ -18,32 +18,25 @@ https://git.io/streak-stats
 
 🛠️ Tech Grimoire
 
-<details>
-<summary><b>⚙️ Core Alchemy</b></summary>
+⚙️ Core Alchemy
 
 - **0xDEADCODE** - Rewriting `/dev/null` in hex  
 - **Kernel Panic Fuel** - C++ template metaprogramming that segfaults on sight  
 - **Syscall Roulette** - Russian轮盘赌 with `fork()`  
 - **Void Pointers Anonymous** - Support group for dereferencing addicts  
 
-</details>
-
-<details>
-<summary><b>☢️ Virtualization Arsenal</b></summary>
+☢️ Virtualization Arsenal
 
 - **Hypervisor of Chaos** - QEMU patch that randomizes CPUID  
 - **KVM Blue Sky** - Injecting meth formulas into VM entropy pools  
 - **Docker of Despair** - Images that `rm -rf /*` on `docker stop`  
 - **K8s Reaper** - CronJob that deletes namespaces at midnight  
 
-</details>
-
-<details>
-<summary><b>💀 Memory Corruption Kit</b></summary>
+💀 Memory Corruption Kit
 
 - **GDB Black Magic** - Breakpoints that trigger triple faults  
 - **Radare2 Hexorcist** - Disassembling binaries into I Ching hexagrams  
 - **LLDB Ouija Board** - Communicating with dead processes  
 - **Stack Smashing for Dummies** - Buffer overflow coloring book  
 
-</details>
+
